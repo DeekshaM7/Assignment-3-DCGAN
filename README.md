@@ -62,11 +62,10 @@ To train the DCGAN, follow these steps:
 
 ## Expected Outputs
 
-After training the DCGAN, you should expect the following outputs:
+After training the DCGAN:
 
 * **Loss Plots:** Plots showing the generator and discriminator losses over iterations, indicating the training dynamics.
 * **Generated Images:** A sequence of generated images showing the improvement in image quality as the training progresses. The final generated images should resemble realistic celebrity faces.
-* **Animation:** An animation visualizing the evolution of the generated images during training.
 
 ## Code Documentation
 
